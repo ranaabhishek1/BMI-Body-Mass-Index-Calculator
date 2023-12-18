@@ -162,7 +162,7 @@ input{
     display:flex;
     flex-direction: column;
     height: 15vh;
-    gap: 0;
+    gap: 2vw;
 }
 
 form{
